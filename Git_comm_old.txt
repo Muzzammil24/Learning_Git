@@ -1,0 +1,31 @@
+V1
+
+git config --global user.name "Muzzu"
+git config --global user.email "muzzu@gmail.com"
+git config --list
+
+ZZZZZZZZZZZZZZZZZZ
+
+To see the credentials
+
+git config user.name
+git config user.email
+
+ZZZZZZZZZZZZZZZZZZ
+
+Git 3 Stage architecture.
+1. Working director
+2. Staging Area
+3. git directory (repository)
+
+ZZZZZZZZZZZZZZZZZZ
+
+To check git repository status
+
+1. > git status
+2. > git init >> to make a git repository
+
+To add all the files in S Area.
+
+1. > git add --a
+2. > git commit -m "Initial Commit" 
